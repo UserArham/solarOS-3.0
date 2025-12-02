@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: #33FF00;
+    font-family: monospace;
+    margin: 0; padding: 0;
+}
+
+#terminal {
+    padding: 20px;
+}
+
+#input {
+    background: black;
+    border: none;
+    color: #33FF00;
+    width: 100%;
+    font-family: monospace;
+}
